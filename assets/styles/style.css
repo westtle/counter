@@ -42,7 +42,7 @@ body { /* Left & right spacing is left & right from default body margin + 12px *
 ._number  {
 	margin: 0;
 	font-size: inherit;
-	transition: ease-in-out 0.22s;
+	transition: cubic-bezier(0.77, -0.61 ,0.2 ,1.08) 0.640s;
 }
 
 ._decrement,
